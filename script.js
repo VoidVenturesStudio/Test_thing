@@ -80,4 +80,6 @@ function setup() {
   window.addEventListener("keyup", keyUp);
 }
 
+console.log("what should we do?:((")
+
 setup(); // Always remember to call setup()!
